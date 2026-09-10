@@ -1,0 +1,6 @@
+{
+  "name": "AgencyTrack - Inventory Manager",
+  "description": "Multi-agency inventory and order management system with stock tracking, low stock alerts, retailer invoices, agency bills, and role-based permissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
